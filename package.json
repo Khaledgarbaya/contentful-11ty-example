@@ -1,0 +1,17 @@
+{
+  "name": "eleventy-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "keywords": [],
+  "author": "Khaled Garbaya <kgarbaya@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^0.10.0",
+    "contentful": "^7.13.1"
+  }
+}
